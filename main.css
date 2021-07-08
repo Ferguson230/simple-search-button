@@ -1,4 +1,7 @@
 /*Clearing Floats*/
+h1{
+text-align: center;
+}
 .cf:before, .cf:after{
     content:"";
     display:table;
